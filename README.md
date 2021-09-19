@@ -28,3 +28,6 @@ O nosso cliente disponibilizou 2 tabelas no formato JSON sobre uma campanha de m
 
 [Painel - Power BI](https://app.powerbi.com/view?r=eyJrIjoiZDA4MDJkNzQtNGI1Yi00ZmEwLWJhNDgtNjQxMDRhYzczNjU5IiwidCI6IjllNzJjNzk5LThlZTctNGUzNi1hNjhhLWQ5YTRhMWFjYTM3YSJ9)
 
+![Retorno Campanha](https://user-images.githubusercontent.com/22487348/133940367-951e788b-d9dc-47bc-8c8f-3935935b77da.PNG)
+![Estatística Conversão](https://user-images.githubusercontent.com/22487348/133940374-db531ba6-8a11-4898-bb64-956279d6de51.PNG)
+![Plataformas](https://user-images.githubusercontent.com/22487348/133940377-94f04cda-50c6-4135-971e-4f1fc9864470.PNG)
